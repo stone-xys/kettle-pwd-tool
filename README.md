@@ -1,4 +1,4 @@
-<h3>kettle 数据库密码加解密工具：</h3>
+<h3>JavaFx kettle 数据库密码加解密工具：</h3>
 <br />
 <h4>运行：</h4>
     java --module-path C:\Java\javafx-sdk-22.0.1\lib --add-modules javafx.controls,javafx.fxml -jar kettle-pwd-tool.jar
